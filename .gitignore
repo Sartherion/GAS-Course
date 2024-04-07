@@ -4,6 +4,7 @@ Intermediate
 Saved
 Build
 Content
+Plugins
 **/BlackAlder
 **/Landscape
 **/MedievalDungeon
@@ -12,7 +13,7 @@ Content
 **/Assets
 
 
-.vscode
+.vs
 .vscode
 *.VC.db
 *.opensdf
